@@ -4,10 +4,14 @@ A [Babric](https://github.com/babric) mod for use with the [Better Than Adventur
 
 ## Features
 
-- Hardcore mode selectable on the world creation screen.
+- Hardcore mode selectable on the world creation screen
 - Hardcore hearts
-- A spectator mode for if you die in your hardcore world.
+- A spectator mode for if you die in your hardcore world
 
-*This mod may not be compatible with other mods and may have slight issues with texture packs*
+## Known issues
 
-*Also most likely won't work on multiplayer servers*
+- Some strings are displayed incorrectly in the GUI
+- There is no option to go straight back to the title screen on death
+
+*This mod may not be compatible with other mods and may have slight issues with texture packs.*
+*Also most likely won't work on multiplayer servers.*
