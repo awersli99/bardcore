@@ -12,6 +12,7 @@ A [Babric](https://github.com/babric) mod for use with [Better Than Adventure](h
 
 - Some strings are displayed incorrectly in the GUI
 - There is no option to go straight back to the title screen on death
+- You can break blocks as if it was creative mode when spectating
 
 *This mod may not be compatible with other mods and may have slight issues with texture packs.*
 *Also most likely won't work on multiplayer servers.*
