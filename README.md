@@ -1,6 +1,6 @@
 # Bardcore
 
-A [Babric](https://github.com/babric) mod for use with the [Better Than Adventure](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/3106066-better-than-adventure-for-beta-1-7-3-timely) mod for Minecraft Beta 1.7.3 that adds hardcore mode.
+A [Babric](https://github.com/babric) mod for use with [Better Than Adventure](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/3106066-better-than-adventure-for-beta-1-7-3-timely) for Minecraft Beta 1.7.3 that adds hardcore mode.
 
 ## Features
 
