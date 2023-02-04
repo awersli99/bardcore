@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "bog.bardcore.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "ConsoleCommandHandlerMixin",
+    "EntityPlayerMixin",
+    "GamemodeCommandMixin",
+    "GuiCreateWorldMixin",
+    "GuiGameOverMixin",
+    "GuiIngameMixin",
+    "GuiWorldSlotMixin",
+    "NetClientHandlerMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -10,6 +10,7 @@ version = project.mod_version
 loom {
 	gluedMinecraftJar()
 	noIntermediateMappings()
+	accessWidenerPath = file("src/main/resources/bardcore.accesswidener")
 	customMinecraftManifest.set("https://github.com/Turnip-Labs/bta-manifest-repo/releases/download/v${project.bta_version}/${project.bta_version}.json")
 }
 

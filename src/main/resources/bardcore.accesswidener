@@ -1,0 +1,13 @@
+accessWidener	v1 named
+accessible method net/minecraft/src/GuiSelectWorld func_22087_f (Lnet/minecraft/src/GuiSelectWorld;)Ljava/lang/String;
+accessible method net/minecraft/src/GuiSelectWorld getDateFormatter (Lnet/minecraft/src/GuiSelectWorld;)Ljava/text/DateFormat;
+accessible method net/minecraft/src/GuiSelectWorld getSize (Lnet/minecraft/src/GuiSelectWorld;)Ljava/util/List;
+accessible method net/minecraft/src/GuiSelectWorld func_22088_h (Lnet/minecraft/src/GuiSelectWorld;)Ljava/lang/String;
+accessible field net/minecraft/src/GuiScreen fontRenderer Lnet/minecraft/src/FontRenderer;
+accessible field net/minecraft/src/GuiScreen controlList Ljava/util/List;
+mutable field net/minecraft/src/GuiScreen controlList Ljava/util/List;
+accessible field net/minecraft/src/GuiScreen mc Lnet/minecraft/client/Minecraft;
+mutable field net/minecraft/src/GuiScreen mc Lnet/minecraft/client/Minecraft;
+mutable field net/minecraft/src/GuiCreateWorld selectedGamemode Lnet/minecraft/src/Gamemode;
+accessible field net/minecraft/src/GuiCreateWorld selectedGamemode Lnet/minecraft/src/Gamemode;
+mutable field net/minecraft/src/Gamemode gamemodesList [Lnet/minecraft/src/Gamemode;
