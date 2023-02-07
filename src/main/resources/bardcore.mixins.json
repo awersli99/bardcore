@@ -11,7 +11,8 @@
     "GuiGameOverMixin",
     "GuiIngameMixin",
     "GuiWorldSlotMixin",
-    "NetClientHandlerMixin"
+    "NetClientHandlerMixin",
+    "PlayerControllerMixin"
   ],
   "client": [
   ],

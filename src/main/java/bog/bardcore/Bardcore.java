@@ -30,7 +30,7 @@ public class Bardcore implements ModInitializer {
         Gamemode hardcore = new GamemodeHardcore(0).setLanguageKey("gamemode.hardcore").setConsumeBlocks().setDoBlockBreakingAnim().setToolDurability().setDropBlockOnBreak().setAreMobsHostile();
         hardcore.id=2;
         registerGamemode(hardcore);
-        Gamemode spectate = new GamemodeSpectate(0).setLanguageKey("gamemode.spectate").setIsPlayerInvulnerable().setIsPlayerInvulnerable().setIsImmuneToFire().setCanPlayerFly();
+        Gamemode spectate = new GamemodeSpectate(0).setLanguageKey("gamemode.spectate").setConsumeBlocks().setIsPlayerInvulnerable().setIsImmuneToFire().setCanPlayerFly();
         spectate.id=3;
         registerGamemode(spectate);
     }
